@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+joblib
+fpdf
+python-dotenv
+openai>=1.0.0
